@@ -1,7 +1,7 @@
 ### SHomeKit
   - Sonnonet Home Kit development
   - Smart Plug Manual : https://github.com/sonnonet/SHomeKit/blob/master/doc/OKPlug_Manual_ver1.1.docx
-  - Smart Plug Test Bed : https://github.com/sonnonet/SHomeKit/blob/master/doc/OKPlug_테스트베드 설치_ver1.1.hwp 
+
 
 
 1. 목적
