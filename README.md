@@ -3,7 +3,7 @@
   - Smart Plug Manual : https://github.com/sonnonet/SHomeKit/blob/master/doc/OKPlug_Manual_ver1.1.docx
   - Smart Plug TestBed :  https://github.com/sonnonet/SHomeKit/blob/master/doc/OKPlug_TestBed_ver1.1.hwp
 
-
+![network](https://raw.githubusercontent.com/sonnonet/SHomeKit/master/img/network.png)
 
 1. 목적
   - 스마트플러그의 Apple Home Kit 연동을 위한 사전작업 진행
